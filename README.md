@@ -2,3 +2,5 @@
 Instagram
 Facebook 
 X
+posts 
+news
